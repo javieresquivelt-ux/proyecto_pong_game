@@ -7,6 +7,7 @@ Juego Arcade Pong implementado con Python Turtle para dos jugadores. Incluye:
 - Instrucciones interactivas al inicio
 - Velocidad que aumenta cada 10 puntos totales
 - Paletas con colores distintivos (cian y magenta)
+- Solicita puntos del juego interactivamente (determina ganador)
 ---
 
 ## ⚙️ Configuración del ambiente
@@ -51,9 +52,7 @@ o
 ---
 
 ## 📸 Capturas de Pantalla
-![alt text](pong1.png)
-![alt text](pong2.png)
-![alt text](pong3.png)
+![alt text](ap.png)
 
 ---
 ## ✍️ Autoría y comunidad
@@ -63,7 +62,6 @@ Si te sirve:
 - Puedes abrir Issues con dudas o mejoras.
 - Puedes hacer Pull Requests con mejoras al script, documentación, etc
 - Sugerencias de contribución:
-    - Sistema de victorias (primero a 20 puntos)
     - Efectos de sonido
     - IA para jugador único
     - Tema oscuro/claro
