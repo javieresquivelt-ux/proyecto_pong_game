@@ -46,8 +46,8 @@ o
 ## 🏗️Requisitos
 
 - Python 3.6+  
-- Módulo turtle (incluido por defecto)  
- 
+- Módulo turtle (incluido por defecto) 
+- Ventana gráfica GUI activa (obligatorio)
 
 ---
 
