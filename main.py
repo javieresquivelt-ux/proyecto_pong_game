@@ -5,7 +5,7 @@ import sys
 # Configuración de ventana
 try:
     wn = turtle.Screen()
-    wn.title("Pong Game - by Javy")
+    wn.title("Pong Game - Proyecto Conquer")
     wn.bgcolor("darkblue")
     wn.setup(width=800, height=600)
     wn.tracer(0)
@@ -237,7 +237,7 @@ def juego():
     
     # Aceleración
     if (score_left + score_right) % 10 == 0 and score_left + score_right > 0:
-        ball.dx *= 1.05
+        ball.dx *= 1.005
         
     wn.ontimer(juego, 10)
 
